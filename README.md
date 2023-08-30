@@ -1,2 +1,10 @@
-# codeclauseinternship_responsivemusicplayer
-Introducing a modern and versatile music player that brings your favorite tunes to life across all your devices. Our responsive music player is designed to provide an immersive and seamless music experience, whether you're on a desktop, tablet, or smartphone. 
+# Music-Player with JavaScript
+
+Function
+1) Random Song
+2) Previous Song
+3) Next Song
+4) Repeat Song
+
+The Layout Design of Music Player
+![Screenshot 2023-02-01 110931](https://user-images.githubusercontent.com/86345777/215935830-07cfc994-c4f7-421c-91c5-f2ad7a0d42d4.png)
